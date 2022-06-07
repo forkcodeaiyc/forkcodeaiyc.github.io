@@ -3,18 +3,18 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  hostname: "https://student.bornforthis.cn/",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "AI悦创",
+    url: "https://student.bornforthis.cn/",
   },
 
   iconAssets: "//at.alicdn.com/t/font_2410206_a0xb9hku9iu.css",
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "forkcodeaiyc/forkcodeaiyc.github.io",
 
   docsDir: "demo/src",
 
@@ -31,7 +31,7 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
-    description: "一个前端开发者",
+    description: "奥利给",
     intro: "/intro.html",
     medias: {
       Baidu: "https://example.com",
