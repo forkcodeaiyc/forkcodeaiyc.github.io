@@ -1,7 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
 import { searchPlugin } from "@vuepress/plugin-search";
-import { pwaPlugin } from "vuepress-plugin-pwa2";
+
 
 
 export default defineUserConfig({
@@ -19,14 +19,7 @@ export default defineUserConfig({
     //   copyright: false,
     // }),
 
-    pwaPlugin({
-      // cacheHTML: true,
-      // update: "available",
-      // update: "force",
-      update: "hint",
-      // maxSize: 6,
-      // favicon: "/cuike.ico",
-    }),
+    
     
     searchPlugin({
       locales: {
