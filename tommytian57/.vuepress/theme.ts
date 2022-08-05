@@ -14,9 +14,9 @@ export default hopeTheme({
 
   logo: "/felt.png",
 
-  repo: "tommytian57/tommytian57.github.io",
+  repo: "forkcodeaiyc/forkcodeaiyc.github.io",
 
-  docsDir: "demo/src",
+  // docsDir: "demo/src",
 
   // navbar
   navbar: navbar,
