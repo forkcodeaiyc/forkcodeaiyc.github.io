@@ -7,13 +7,8 @@ heroImage: /felt.png
 heroText: 田浩良的精彩人生
 heroFullScreen: true
 bgImage: "/thld.webp"
-tagline: 大家好，我叫田浩良，来自辽宁省大连市。<br/>我出生于2002年5月7日；<br/>2008年-2014年在大连市西岗区五四路小学上1-6年级；<br/>2014年-2017年在大连市第三十四中学上7-9年级；<br/>2017年-2021年在大连美国国际学校上9-12年级。<br/>目前就读于美国纽约大学综合媒体设计专业，正在向着更好的自己不断向前！
+tagline: 目前就读于美国纽约大学综合媒体设计专业，正在向着更好的自己不断向前！
 projects:
-  - icon: play
-    name: B站账号：ItsTommyTian
-    desc: 本账号为我的私人B站账号，主要更新一些个人爱好，比如无人机视频，摄影作品之类，以及一些科技类文章（发表对刚上市的新产品的分析和感想）。
-    link: https://space.bilibili.com/399949320?spm_id_from=333.1007.0.0
-
   - icon: link
     name: YouTube：TommyTHL Drone Studio
     desc: 本账号已就位我私人YouTube账号，主要更新一些无人机视频。
@@ -28,11 +23,6 @@ projects:
     name: 我的研究报告
     desc: 学校刚刚结束的艺术鉴赏课上，我选择乔布斯作为我研究的对象写了一篇完整的研究报告。
     link: https://drive.google.com/drive/u/1/folders/1t4R79b1zaxS-XQVw5jsNcoAVyCCPbHQZ
-
-  - icon: friend
-    name: 张云梦
-    desc: 在高中认识的女性朋友，比我大一届但是和我同岁，目前正在巴德学院（位于纽约州上州）读大二。
-    link: https://www.instagram.com/helen.zhang0329/
 
   - icon: /felt.png
     name: 自定义项目

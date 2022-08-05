@@ -1,0 +1,16 @@
+export const pagesRoutes = [
+  ["v-8daa1a0e","/",{"title":"博客主页","icon":"home","type":"home","readingTime":{"minutes":1.47,"words":441},"excerpt":"我很庆幸当初在没有人看好的情况下依旧选择纽约大学作为我的梦中情人，最终这个结果也可以说是有情人终成眷属吧。就像2007年F1赛季，莱科宁在最后一站还落后汉密尔顿7分的情况下，依旧不放弃，以绝对稳定的发挥，战胜了赛车故障的汉密尔顿，赢下了当年的世界冠军。 这个世界是有奇迹的，不过奇迹的背后都是看不见的坚持与努力. 哪怕结果只好百分之一，我愿意多投入百分之百！"},["/index.html","/README.md"]],
+  ["v-79fdd481","/home.html",{"title":"项目主页","icon":"home","type":"home","readingTime":{"minutes":2.61,"words":782},"excerpt":"这是项目主页的案例。你可以在这里放置你的主体内容。 想要使用此布局，你需要在页面 front matter 中设置 home: true。 配置项的相关说明详见 项目主页配置。"},["/home","/home.md"]],
+  ["v-184f4da6","/intro.html",{"title":"关于","icon":"home","type":"home","readingTime":{"minutes":0.26,"words":77},"excerpt":"我目前就读于美国纽约大学融合媒体设计系，还有两个周年夏季学期就要结束了，希望能有一个不错的结果。"},["/intro","/intro.md"]],
+  ["v-68d6fa0a","/posts/biography.html",{"title":"一些简单的自传","icon":"blog","type":"article","readingTime":{"minutes":0.99,"words":298},"excerpt":"","author":"淘米田","date":"2022-07-29T22:41:53.000Z","localizedDate":"2022年7月30日","category":["About Tommy"],"tag":["Biography"],"sticky":false,"star":false,"isOriginal":true,"isEncrypted":true},["/posts/biography","/posts/biography.md"]],
+  ["v-3706649a","/404.html",{"title":"","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/404"]],
+  ["v-5bc93818","/category/",{"title":"分类","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/category/index.html"]],
+  ["v-744d024e","/tag/",{"title":"标签","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/tag/index.html"]],
+  ["v-e52c881c","/article/",{"title":"文章","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/article/index.html"]],
+  ["v-75ed4ea4","/encrypted/",{"title":"加密","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/encrypted/index.html"]],
+  ["v-d804e652","/slide/",{"title":"幻灯片","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/slide/index.html"]],
+  ["v-154dc4c4","/star/",{"title":"收藏","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/star/index.html"]],
+  ["v-01560935","/timeline/",{"title":"时间轴","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/timeline/index.html"]],
+  ["v-808a006e","/category/about-tommy/",{"title":"About Tommy 分类","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/category/about-tommy/index.html"]],
+  ["v-62b0112c","/tag/biography/",{"title":"Biography 标签","type":"page","readingTime":{"minutes":0,"words":0},"excerpt":""},["/tag/biography/index.html"]],
+]
