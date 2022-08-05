@@ -3,11 +3,11 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://www.tommytian57.com",
+  hostname: "#",
 
   author: {
     name: "Tommy Tian",
-    url: "https://www.tommytian57.com",
+    url: "#",
   },
 
   iconAssets: "iconfont",
@@ -40,7 +40,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/posts/biography.html": ["020507"],
+      // "/posts/biography.html": ["020507"],
     },
   },
 
@@ -56,11 +56,11 @@ export default hopeTheme({
       /**
        * Using Giscus
        */
-      // provider: "Giscus",
-      // repo: "vuepress-theme-hope/giscus-discussions",
-      // repoId: "R_kgDOG_Pt2A",
-      // category: "Announcements",
-      // categoryId: "DIC_kwDOG_Pt2M4COD69",
+      provider: "Giscus",
+      repo: "vuepress-theme-hope/giscus-discussions",
+      repoId: "R_kgDOG_Pt2A",
+      category: "Announcements",
+      categoryId: "DIC_kwDOG_Pt2M4COD69",
 
       /**
        * Using Twikoo
@@ -71,16 +71,16 @@ export default hopeTheme({
       /**
        * Using Waline
        */
-      provider: "Waline",
-      serverURL: "https://comments.tommytian57.com/",
-      emoji: [
-        'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
-        'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
-        'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
-        'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus',
-        'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
-        'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
-      ],
+      // provider: "Waline",
+      // serverURL: "https://comments.tommytian57.com/",
+      // emoji: [
+      //   'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
+      //   'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
+      //   'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+      //   'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus',
+      //   'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
+      //   'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
+      // ],
     },
 
     mdEnhance: {
